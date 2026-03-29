@@ -1,20 +1,21 @@
 <div align="center">
 
-<!-- Nyan Cat - natural size, centered -->
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Nyan Cat" height="80" />
+<!-- Pink waving banner on top -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3C6,FFD6E7,E8D6FF&height=120&section=header&text=&fontSize=0" />
+
+<!-- Nyan Cat - nhỏ lại -->
+<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Nyan Cat" height="60" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=13&pause=1000&color=FFB3C6&center=true&vCenter=true&width=500&lines=✨+Welcome+to+my+GitHub+profile+✨;🌸+Glad+you+stopped+by!+🌸" alt="Welcome" />
+<!-- Dòng chào -->
+<h3>🌸 Xin chào! Chào mừng bạn ghé thăm trang của mình 🌸</h3>
 
 <br/>
 
-<!-- Welcome image - nhỏ lại -->
-<img src="welcome.png" width="180" alt="Welcome Huệ Trinh" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=FF85A1&center=true&vCenter=true&width=600&lines=Hi!+I'm+Huệ+Trinh+🌸;Designer+%26+Tester+💖;Welcome+to+my+world!+✨" alt="Name" />
+<!-- Name text trực tiếp thay vì SVG -->
+<h1>Hi! I'm Huệ Trinh 🌸</h1>
+<h3>Designer ✦ Tester ✦ Developer 💖</h3>
 
 <br/>
 
@@ -25,8 +26,6 @@
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb3c6,e8d6ff,d6f0ff&height=100&section=header&text=&fontSize=0" />
 
 ---
 
