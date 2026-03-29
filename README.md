@@ -6,7 +6,7 @@
 <img src="ogiua.gif" alt="Cute Cat Running" width="100%" />
 </td>
 <td align="center" valign="middle" width="50%">
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=700&pause=9999&color=FF85A1&center=true&vCenter=true&width=440&height=120&lines=HELLO%2C+I'M+HUE+TRINH+%F0%9F%8C%B8" alt="Hello typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=1700&pause=9999&color=FF85A1&center=true&vCenter=true&width=440&height=120&lines=HELLO%2C+I'M+HUE+TRINH+%F0%9F%8C%B8" alt="Hello typing" />
 </td>
 </tr>
 </table>
@@ -222,7 +222,7 @@ Mình có nền tảng vững về **thiết kế UI/UX** và **kiểm thử ph�
 <table border="0">
 <tr>
 <td align="center" valign="middle" width="40%">
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&duration=350&pause=9999&color=FF85A1&center=true&vCenter=true&width=380&height=100&lines=GOODBYE%2C+NICE+TO+SEE+YOU+%F0%9F%92%96" alt="Goodbye typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&duration=2000&pause=9999&color=FF85A1&center=true&vCenter=true&width=380&height=100&lines=GOODBYE%2C+NICE+TO+SEE+YOU+%F0%9F%92%96" alt="Goodbye typing" />
 </td>
 <td align="right" valign="middle" width="60%">
 <img src="ogiuaduoi.gif" alt="Cute Cat Flipped" width="100%" />
