@@ -1,12 +1,12 @@
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
 <td align="left" valign="middle" width="60%">
 <img src="ogiua.gif" alt="Cute Cat Running" width="100%" />
 </td>
 <td align="center" valign="middle" width="50%">
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=20&pause=9999&color=FF85A1&center=true&vCenter=true&width=440&height=120&lines=HELLO%2C+I'M+HUE+TRINH+%F0%9F%8C%B8" alt="Hello typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=700&pause=9999&color=FF85A1&center=true&vCenter=true&width=440&height=120&lines=HELLO%2C+I'M+HUE+TRINH+%F0%9F%8C%B8" alt="Hello typing" />
 </td>
 </tr>
 </table>
@@ -27,7 +27,7 @@
 
 ## 🌷 Về Mình
 
-<table>
+<table border="0">
 <tr>
 <td width="25%" align="center" valign="middle">
 <img src="bentrai.webp" width="160" alt="Cat Left" />
@@ -54,7 +54,7 @@ Mình có nền tảng vững về **thiết kế UI/UX** và **kiểm thử ph�
 <br/>
 
 <div align="center">
-<table>
+<table border="0">
 <tr>
 <td align="center" valign="middle">
 <img src="danhmaytrai.webp" width="140" alt="Cat Typing Left" />
@@ -125,7 +125,7 @@ Mình có nền tảng vững về **thiết kế UI/UX** và **kiểm thử ph�
 
 ## 🚀 Dự Án Tiêu Biểu
 
-<table>
+<table border="0">
 <tr>
 <td width="50%" valign="top">
 
@@ -219,7 +219,7 @@ Mình có nền tảng vững về **thiết kế UI/UX** và **kiểm thử ph�
 
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
 <td align="center" valign="middle" width="40%">
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&duration=350&pause=9999&color=FF85A1&center=true&vCenter=true&width=380&height=100&lines=GOODBYE%2C+NICE+TO+SEE+YOU+%F0%9F%92%96" alt="Goodbye typing" />
