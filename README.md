@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- ogiua.gif chạy từ trái sang phải, full width, tự động phát -->
-<img src="ogiua.gif" alt="Cute Cat Running" width="70%" />
-<h3>🌸 Xin chào! Chào mừng bạn ghé thăm trang của mình 🌸</h3>
+<img src="ogiua.gif" alt="Cute Cat Running" width="50%" />
 <h1>Hi! I'm Huệ Trinh 🌸</h1>
 <h3>Designer ✦ Tester ✦ Developer 💖</h3>
 
