@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Pink waving banner on top -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3C6,FFD6E7,E8D6FF&height=120&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF99FF,FF77FF,99ff99&height=120&section=header&text=&fontSize=0" />
 
 <!-- Nyan Cat - nhỏ lại -->
 <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Nyan Cat" height="60" />
