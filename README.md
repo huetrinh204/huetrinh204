@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Pink waving banner on top -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3C6,FFD6E7,E8D6FF&height=120&section=header&text=&fontSize=0" />
-
 <!-- ogiua.gif chạy từ trái sang phải, full width, tự động phát -->
-<img src="ogiua.gif" alt="Cute Cat Running" width="100%" />
+<img src="ogiua.gif" alt="Cute Cat Running" width="90%" />
 
 <br/>
 
@@ -59,7 +56,7 @@ Mình có nền tảng vững về **thiết kế UI/UX** và **kiểm thử ph�
 <table>
 <tr>
 <td align="center" valign="middle">
-<img src="danhmay.webp" width="140" alt="Cat Typing Left" />
+<img src="danhmaytrai.webp" width="140" alt="Cat Typing Left" />
 </td>
 <td align="center" valign="middle">
 
@@ -78,7 +75,7 @@ Mình có nền tảng vững về **thiết kế UI/UX** và **kiểm thử ph�
 </td>
 <td align="center" valign="middle">
 <!-- danhmay_flip.webp = danhmay.webp đã lật ngang (tạo sẵn file) -->
-<img src="danhmaytrai.webp" width="140" alt="Cat Typing Right" />
+<img src="danhmay.webp" width="140" alt="Cat Typing Right" />
 </td>
 </tr>
 </table>
@@ -220,8 +217,6 @@ Mình có nền tảng vững về **thiết kế UI/UX** và **kiểm thử ph�
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3C6,FFD6E7,E8D6FF&height=100&section=footer&text=&fontSize=0" />
 
 <!-- ogiua_flip.gif = ogiua.gif đã lật ngang, chạy từ phải sang trái, tự động phát -->
 <img src="ogiuaduoi.gif" alt="Cute Cat Flipped" width="100%" />
