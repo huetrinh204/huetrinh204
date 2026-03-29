@@ -1,7 +1,25 @@
 <div align="center">
 
-<!-- ogiua.gif chạy từ trái sang phải, full width, tự động phát -->
-<img src="ogiua.gif" alt="Cute Cat Running" width="50%" />
+<!-- Pink waving banner on top -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3C6,FFD6E7,E8D6FF&height=120&section=header&text=&fontSize=0" />
+
+<table>
+<tr>
+<td align="left" valign="middle" width="50%">
+<img src="ogiua.gif" alt="Cute Cat Running" width="100%" />
+</td>
+<td align="center" valign="middle" width="50%">
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=150&pause=9999&color=FF85A1&center=true&vCenter=true&width=440&height=120&lines=HELLO%2C+I'M+HUE+TRINH+%F0%9F%8C%B8" alt="Hello typing" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3>🌸 Xin chào! Chào mừng bạn ghé thăm trang của mình 🌸</h3>
+
+<br/>
+
 <h1>Hi! I'm Huệ Trinh 🌸</h1>
 <h3>Designer ✦ Tester ✦ Developer 💖</h3>
 
@@ -211,12 +229,18 @@ Mình có nền tảng vững về **thiết kế UI/UX** và **kiểm thử ph�
 
 <div align="center">
 
-<!-- ogiua_flip.gif = ogiua.gif đã lật ngang, chạy từ phải sang trái, tự động phát -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3C6,FFD6E7,E8D6FF&height=100&section=footer&text=&fontSize=0" />
+
+<table>
+<tr>
+<td align="center" valign="middle" width="40%">
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&duration=150&pause=9999&color=FF85A1&center=true&vCenter=true&width=380&height=100&lines=GOODBYE%2C+NICE+TO+SEE+YOU+%F0%9F%92%96" alt="Goodbye typing" />
+</td>
+<td align="right" valign="middle" width="60%">
 <img src="ogiuaduoi.gif" alt="Cute Cat Flipped" width="100%" />
-
-<br/>
-
-<p>🌸 Thanks for visiting! Have a lovely day! ✨💖</p>
+</td>
+</tr>
+</table>
 
 <br/>
 
