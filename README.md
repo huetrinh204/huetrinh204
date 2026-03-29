@@ -3,8 +3,8 @@
 <!-- Pink waving banner on top -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF99FF,FF77FF,99ff99&height=120&section=header&text=&fontSize=0" />
 
-<!-- ogiua.gif thay Nyan Cat -->
-<img src="ogiua.gif" alt="Cute Cat" height="60" />
+<!-- ogiua.gif full width - chạy xuyên màn hình -->
+<img src="ogiua.gif" alt="Cute Cat" width="100%" />
 
 <br/>
 
@@ -53,7 +53,7 @@ Mình có nền tảng vững về **thiết kế UI/UX** và **kiểm thử ph�
 <td width="25%" align="center" valign="middle">
 
 <!-- gif mèo gõ máy tính ở giữa/phải -->
-<img src="https://media.gifdb.com/cute-cat-typing-pc-c75zztglqp3ybt0w.gif" width="160" alt="Cat Typing" />
+<img src="danhmay.webp" width="160" alt="Cat Typing" />
 
 </td>
 </tr>
@@ -214,7 +214,7 @@ Mình có nền tảng vững về **thiết kế UI/UX** và **kiểm thử ph�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3C6,FFD6E7,E8D6FF&height=100&section=footer&text=&fontSize=0" />
 
-<img src="ogiua.gif" alt="Cute Cat" height="60" />
+<img src="ogiua.gif" alt="Cute Cat" width="100%" />
 
 <br/>
 
